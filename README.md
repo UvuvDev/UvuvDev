@@ -1,1 +1,1 @@
-I like reverse engineering, 0 day research, and doing software dev. Go to https://shuroko-exe.dev if you like your code being clean :)
+Hey, my name is Bradley. I'm currently working for Vector35 doing work on the debugger. I'm into 0 day research on mobile devices and am helping to startup / run UCF's vulnerability research lab in HackUCF. I'm a competitor for UCF's CTF team as well. If you want to talk about some of my projects, especially Scallop Shell, LinkedIn is the best way to contact me. 
